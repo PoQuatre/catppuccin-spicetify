@@ -1,4 +1,7 @@
 @charset "UTF-8";
+:root .Root__top-container {
+  padding-top: 0;
+}
 :root .Root__main-view .main-home-homeHeader {
   display: none;
 }
